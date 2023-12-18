@@ -2,7 +2,7 @@
 
 * ChatGPT_or_Human.ipynb
   - Task: Text Classification - Detect whether an essay is written by a Large Language Model (LLM) or a human.
-  - Description: Compared performance of DistilBERT and ALBERT; Created an ensemble of the two transformers; Tuned Hyper-parameters with [Optuna](https://optuna.org/).
+  - Description: Compared performance of DistilBERT and ALBERT; Created an ensemble of the two transformers; Optimized Hyper-parameters with [Optuna](https://optuna.org/).
   - Libraries: Hugging Face, Trainer API, datasets
  
 * Natural_Language_Processing_using_Pipeline_Hugging_Face.ipynb
